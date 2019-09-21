@@ -1,0 +1,18 @@
+
+First we have Home page for Voting System.
+Through Home page user can signup or login.
+
+ADMIN:
+if user login as admin then he will be redirect to super user page. In super user page admin can manage elections,parties and candidates who is appearing in upcoming election. 
+Admin user can set only one election at a time.If new election is coming then previous election data is removed except name of winning party of previous election. 
+
+CITIZEN:
+User can register himself as a citizen via mail authentication. 
+if user login as citizen then he will be redirect to voting portal where he will be able to give vote to candidate who is appearing in election from his region only if election is live.After giving vote he will redirected to home page.
+If election is over then result will be displayed to citizen at home page.
+
+
+
+
+
+

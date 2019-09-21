@@ -1,0 +1,59 @@
+body{
+    margin: auto;
+    padding: 0;
+    background-image: url(001.jpg);
+    background-size: cover;
+    width: 100%;
+    overflow-x: hidden;
+    font-family:sans-serif;
+}
+.h1{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 30px;
+}
+.extra{
+    color: rgb(170, 13, 13);
+    text-align: center;
+    font-size: 20px;
+    margin-top: 30px;
+}
+table{
+    font-size: 25px;
+}
+table tr td{
+    color:lightseagreen;
+    border: 2px solid rgb(10, 10, 10);
+    border-style: dashed;
+}
+table tr td, table tr th{
+    width: 170px;
+    height: 65px;
+    text-align: center;
+    padding: 10px;
+}
+table tr th{
+    
+    color: lightblue;
+    border: 2px solid black;
+    border-style: dashed;
+}
+
+
+.h2{
+    color: rgb(233, 8, 165);
+    text-align: center;
+    font-size: 20px;
+    margin-top: 30px;
+    position:relative;
+    top:30px;
+}
+.header{
+    color: white;
+    text-align: center;
+    font-size: 13px;
+    margin-top: 30px;
+}
+
+
